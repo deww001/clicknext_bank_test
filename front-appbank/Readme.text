@@ -1,0 +1,5 @@
+firstpage http://localhost:5173/home
+Depositpage  http://localhost:5173/deposit
+Withdrawpage http://localhost:5173/withdraw
+Transferpage http://localhost:5173/tranfer
+historypage  http://localhost:5173/history

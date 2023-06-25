@@ -1,0 +1,30 @@
+.aside_1{
+  background-color: rgba(53, 227, 186, 0.37);
+  height: 500px;
+  width: 500px;
+  margin-top: center;
+  margin-left: 500px;
+ 
+}
+
+.aside_2{
+  /* background-color: rgba(53, 227, 186, 0.37); */
+  height: 100px;
+  width: 300px;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+h3{
+  margin-left: 100px;
+  margin-top: 100px;
+  
+}
+
+.button{
+  margin-left: 100px;
+}
+
+
+
+

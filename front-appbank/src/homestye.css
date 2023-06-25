@@ -1,0 +1,31 @@
+
+
+.container{
+   margin-top: 100px;
+    width: auto;
+    
+}
+.box{
+    background-color: bisque;
+    height: 200px;
+    width: 200px;
+    margin-top: 200px;
+    margin-right: 500px;
+    float: right;
+    border-radius: 100%;
+    border: solid 5px;
+}
+
+.p1{
+    margin-top: 30px;
+    margin-left: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:x-large;
+}
+
+.p2{
+    margin-top: 10px;
+    margin-left: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:x-large;
+}
